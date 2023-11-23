@@ -698,7 +698,7 @@ export const singleProduct = {
       time: "3 day ago",
     },
     {
-      text: "Jane Doe added Playstation 5 Digital Edition into their wishlist",
+      text: "M4dev Doe added Playstation 5 Digital Edition into their wishlist",
       time: "1 week ago",
     },
     {
